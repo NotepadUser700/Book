@@ -11,13 +11,13 @@ Puoi usare:
 - [Pandoc &gt;=2.6](https://pandoc.org/MANUAL.html#creating-jupyter-notebooks-with-pandoc) per esportare nei notebook .ipynb (opzionale: [installare Pandoc in Python](https://github.com/kiwi0fruit/py-pandoc) ),
 - [ipynb-py-converter](https://github.com/kiwi0fruit/ipynb-py-converter) per convertire .ipynb in .py da utilizzare con Knitty.
 
-## Installare
+## Installareppp pp
 
 Installa come parte di [Pandoctools](https://github.com/kiwi0fruit/pandoctools) : interfaccia comoda e pronta all'uso.
 
 Richiede Python 3.6+ ma è possibile avere altre versioni tramite i kernel Jupyter poiché Knitty può utilizzare qualsiasi kernel installato.
 
-Via conka:bkk
+Via conka:bkkas;ldkas;dlkasd;lkas;dlkasd;lkasd;lkasd;lk
 
 ```bash
 conda install -c defaults -c conda-forge knitty
@@ -31,14 +31,13 @@ pip install knitty
 
 #### Kernel di Jupyter
 
-Consultare ulteriori informazioni importanti su come [**installare i kernel Jupyter negli ambienti Conda**](https://github.com/kiwi0fruit/pandoctools/blob/master/docs/tips.md) .
- Per informazioni principali su come installare i kernel Jupyter, consultare la documentazione di Atom/Hydrogen (ad esempio).
+Consultare ulteriori informazioni importanti su come [**installare i kernel Jupyter negli ambienti Conda**](https://github.com/kiwi0fruit/pandoctools/blob/master/docs/tips.md) . Per informazioni principali su come installare i kernel Jupyter, consultare la documentazione di Atom/Hydrogen (ad esempio).
 
 #### Atomo/Idrogeno
 
 Knitty è molto più efficace se utilizzato con un ambiente come Atom/Hydrogen. Per maggiori dettagli, consulta [la pagina "Migliore esperienza Python/Jupyter/PyCharm + generazione di report con filtri Pandoc"](https://github.com/kiwi0fruit/pandoctools/blob/master/docs/best_python_jupyter_pycharm_experience.md) . Puoi anche provare l'interfaccia **di VS Code** per Jupyter da [vscode-python](https://github.com/Microsoft/vscode-python) invece di Atom/Hydrogen. Consiglio vivamente di considerare ipynb semplicemente come un formato di output come il PDF (seppur dinamico e ricco di dettagli), anziché come un formato principale o intermedio.
 
-## Esempi
+## Esempo
 
 Potete vedere esempi di utilizzo di Knitty [**qui**](https://github.com/kiwi0fruit/pandoctools/tree/master/examples) . Viene utilizzato insieme ad altri strumenti CLI tramite Pandoctools, ma la gestione delle celle e le opzioni sono di Knitty.
 

@@ -17,7 +17,7 @@ Installa come parte di [Pandoctools](https://github.com/kiwi0fruit/pandoctools) 
 
 Richiede Python 3.6+ ma è possibile avere altre versioni tramite i kernel Jupyter poiché Knitty può utilizzare qualsiasi kernel installato.
 
-Via conda:
+Via conka:bkk
 
 ```bash
 conda install -c defaults -c conda-forge knitty
